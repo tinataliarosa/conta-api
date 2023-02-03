@@ -1,0 +1,14 @@
+[
+  {
+    "messageId": "b5459f0a-c363-4f02-8dc6-79263ddcb5bb",
+    "conta": {
+      "id": "99bab7cd-96b3-4282-b63a-1afe618064a9",
+      "agencia": "1234",
+      "numero": "12345",
+      "digito": "1",
+      "saldo": 1.00,
+      "limite": 10.00
+    },
+    "valor": 20.00
+  }
+]
